@@ -6,5 +6,5 @@ Source: [Pergikuliner](https://pergikuliner.com/)
 
 Sample data: [sample.csv](data/data.csv)
 
-![restaurant data](pergikuliner-data-sample.png)
+![restaurant data](img/pergikuliner-data-sample.png)
 
